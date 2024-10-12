@@ -48,15 +48,6 @@ You’ll know that your code is placed right with care.<br>
 In the universe vast, it finds its own way,<br>
 Your work shines with brilliance, come what may.<br>
 
-# 🎯 Perfect Predictions
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-steve.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-monroe.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-hitler.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-elon.jpg)](https://vedastro.org/LifePredictor)   
-[![MatchChecker](https://vedastro.org/images/marriage-prediction-perfect-example.png)](https://vedastro.org/Match)   
-[![SkyChartGIF](https://vedastro.org/images/SkyChart/release-mk3.gif)](https://vedastro.org/Horoscope)   
-
-
 # 📊 +200 Astro API Calls
 Below is sample API call result for data related to "**Sun**" on "**30/06/2023**" at "**Singapore**"
 --> [Watch Video Guide](https://www.youtube.com/watch?v=y110RAgIorY)
