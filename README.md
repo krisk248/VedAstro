@@ -24,19 +24,6 @@
 </span>
 
 
-# 🙏 How VedAstro can help you...
-
-- [Website](https://vedastro.org/Docs/QuickGuide) --> easy & fast astrology data for **normal users**
-- [Chat API](https://vedastro.org/ChatAPI) --> world's 1st open source **Vedic AI Chat** bot
-- [Open API](https://vedastro.org/APIBuilder) --> free astrology data for your app or website with a simple `HTTP GET`
-- [JavaScript SDK](https://github.com/VedAstro/VedAstro/tree/master/Website/wwwroot/Demo/JavaScript) --> easy to use JS library to simplify API access and use
-- [Swiss Ephemeris API](https://vedastro.org/APIBuilder) --> free advanced astronomy data from NASA's JPL Ephemeris
-- [Learn Astro Computation](https://github.com/VedAstro/VedAstro/tree/master/Library/Logic/Calculate) --> learn exact math & logic used in astrology via **`Free Open Source`** code
-- [ML Table Generator](https://vedastro.org/TableGenerator) --> easily generate large astronomical tables for use in ML/AI Model training and Data Science
-- [Match Finder](https://vedastro.org/Match/Finder) --> find your astrologically perfect match in our global database
-- [Life Predictor](https://vedastro.org/LifePredictor) --> accurate algorithmic prediction of a human life's past and future
-- [Build On Top](https://github.com/VedAstro/VedAstro/tree/master/Library/Logic/Calculate) --> import VedAstro code directly into your existing projects
-
 [![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)](https://www.nuget.org/packages/VedAstro.Library) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/VedAstro/)  [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)](https://hub.docker.com/r/vedastro/api)
 
 # 🆓 100% Open Source
@@ -182,9 +169,6 @@ With continued support from users, this project has steadily grown to what it is
 Thanks to [B.V. Raman](https://en.wikipedia.org/wiki/B._V._Raman) and his grandfather B. Suryanarain Rao for pioneering easy to read astrology books. Credit also goes to [St. Jean-Baptiste de La Salle](https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle) for proving the **efficacy of free and open work** for the benefit of all men...[Read More](https://vedastro.org/About).
 
 
-# 💌 Support
-[![membership](https://vedastro.org/images/kofi-membership-page.png)](https://ko-fi.com/vedastro/tiers)
-
 
 # 🧰 Gonzo Development Pattern
 This development style celebrates the methodology of chaotic development at the benefit of low cost and fast paced prototyping.
@@ -242,37 +226,6 @@ This is a project born of joy, kept alive by it and as such do not touch the cod
 your heart is filled with the joy of building beauty with electrons and your fingers can't keep up.
 
 Then you know your code is right, and **has a place for it in this universe**.
-
-
-# 🙏 Special Thanks
-<img src="https://pics.paypal.com/00/p/ZjU4ZjZiMjEtNDE0Ny00MGExLTg2ZTMtNzkxOTQ1MTI4Mzc0/image_34.PNG" width="100"/>
-
-**Leslie Choi** : Sponsored & believed in the project even when work was only half done.
-
-
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="100"/>
-
-**JetBrains** : Gave free "ReSharper License" that made coding life easier.
-
-
-# ❤️ Social
-Just **Like** & **Share** our social pages and it'll be a **big** help already!
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vedastro/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vedastro.org)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_VedAstro)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vedastro)
-
-
-# 👪 Join our family
-If you want to do more than just click "Like" & "Share", then [join us.](https://vedastro.org/JoinOurFamily)  
-We're always looking for somebody to **[improve code.](https://vedastro.org/JoinOurFamily)** or **[help with funding](https://vedastro.org/Donate)**.
-
-# 🙋‍♂️ Come say "Hi", we don't bite!
-We discuss & share ideas on astrology and computation. And ways you can integrate VedAstro into your own project.
-<!-- SLACK JOIN IMAGE -->
-[![image](https://user-images.githubusercontent.com/43817262/227275627-609ceb21-025a-4902-b552-6e12f62f2f9d.png)](https://join.slack.com/t/vedastro/shared_invite/zt-1rqkyn0vm-A7YncrN4PFPolVxCEBA37Q)
-
 
 # ⚙️ Project Structure
 ![vedastro-4-parts](https://vedastro.org/images/4-parts-of-vedastro.jpg)
@@ -526,36 +479,4 @@ but with Client + Server config, hashes become different, needs changing to MD5
 -   Needs to be added with care and where absolutely needed,
     else could get very confusing.
 
-# Things to remember
-To all those who say we need money todo good. Jesus said not.
 
-"It is easier for a camel to go through the eye of a needle,
-than for a rich man to enter the kingdom of God"
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoffman-ChristAndTheRichYoungRuler.jpg/1024px-Hoffman-ChristAndTheRichYoungRuler.jpg" width="600"/>
-
-
-# POEMS
-Oh so bright, On a Tuesday morning,<br>
-I'm pondering life, and what's in sight.<br>
-Is it fear, fate, justice, or a test of might?<br>
-
-From my father's voice rings a resounding insight.<br>
-Joy of my love, it's your guiding light!<br>
-All men that have joy, have God, just right,<br>
-Making love to their sweet wife, there, God's in sight!<br>
-
-When men love their wives, with all their heart,<br>
-They see a glimpse of God, a work of art.<br>
-In those precious moments, they see God's might.<br>
-Yet, swiftly it fades, like a star in the night<br>
-
-When fleeting moments pass, and cries are heard,<br>
-And we're left to wonder, if joy's been blurred.<br>
-Chasing worldly delights, may bring us cheer<br>
-But joy is what lasts, and banishes all fear.<br>
-
-To pursue worldly pleasures, is not quite right,<br>
-It's short-sighted, like a bat in the daylight.<br>
-They seek joy, in their ceaseless flight,<br>
-Forgetting it's joy that makes their wings ignite.
